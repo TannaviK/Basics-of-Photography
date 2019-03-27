@@ -1,0 +1,68 @@
+<style>
+{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #59585E;
+    background-attachment: fixed;
+    background-image: url("adj_menu.jpg");
+    background-size: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    font-size: 40px
+    color: grey;
+    font-family: garamond, sans-serif;
+    font-style: oblique;
+    align-content: center;
+
+}
+
+div.middle {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  color: White;
+
+}
+
+div.container {
+  position: relative;
+  text-align: left;
+  color: grey;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+
+div.text-block {
+  color: lightgrey;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-size: 40px;
+  opacity: 0.8
+}
+</style>
+
+div.top-right {
+  position: absolute;
+  top: 8px;
+  right: 16px;
+}
+
+p{
+  font-size: 20px;
+  color: lightgrey;
+  font-family: georgia, sans-serif;
+  align-content: center;
+  align-self: center;
+  background-color: black;
+  display: block;
+  width: 50%;
+  font-style: normal;
+  padding: 10px;
+  width: 20%;
+  margin: 40%;
+  margin-top: 15%;
+}

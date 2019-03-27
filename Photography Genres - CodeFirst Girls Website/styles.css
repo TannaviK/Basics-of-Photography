@@ -1,0 +1,45 @@
+*<style>
+{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: url("index_bg.jpg");
+    background-size: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: black;
+    font-family: garamond, sans-serif;
+    font-style: oblique;
+    font-size: 20px
+}
+
+div.icons{
+  margin-top: 20%;
+  margin-bottom: 20%;
+  padding-left: 50px;
+  padding-right: 40px;
+  margin-left: 25%;
+  margin-right: 15%;
+}
+
+H2{
+  font-size: 40px;
+  color: #FFFFFF;
+  font-weight: 600;
+  text-shadow: 2px 3px #111111;
+  font-family: georgia, serif;
+  align-content: center;
+  align-self: center;
+  display: block;
+  font-style: normal;
+  padding: 10px;
+  width: 20%;
+  margin: 40%;
+  margin-top: 15%;
+}
+
+}
+</style>
